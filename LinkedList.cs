@@ -100,6 +100,33 @@ namespace DND8_CustomLinkedList
             return popData;
         }
 
+        public bool Delete(T data)
+        {
+            Node<T> searchedNode = null;
+
+            Node<T> temp = head;
+            while (temp != null)
+            {
+                if (temp.data.Equals(data))
+                {
+                    searchedNode = temp;
+                }
+                temp = temp.next;
+            }
+
+            if (searchedNode != null)
+            {
+                temp = head;
+                while (temp.next != searchedNode)
+                    temp = temp.next;
+                temp.next = searchedNode.next;
+                searchedNode.next = null;
+                return true;
+            }
+            Console.WriteLine($"{data} does not exist in the Linked List!!!");
+            return false;
+        }
+
         public void Display()
         {
             Node<T> temp = head;
