@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\bin\Debug\net6.0\DND8_CustomLinkedList.exe
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\bin\Debug\net6.0\DND8_CustomLinkedList.deps.json
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\bin\Debug\net6.0\DND8_CustomLinkedList.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\bin\Debug\net6.0\DND8_CustomLinkedList.dll
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\bin\Debug\net6.0\DND8_CustomLinkedList.pdb
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.dll
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\refint\DND8_CustomLinkedList.dll
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.pdb
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\DND8_CustomLinkedList.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND8_CustomLinkedList\DND8_CustomLinkedList\obj\Debug\net6.0\ref\DND8_CustomLinkedList.dll
