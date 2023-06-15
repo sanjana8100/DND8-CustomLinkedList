@@ -79,6 +79,27 @@ namespace DND8_CustomLinkedList
             return popData;
         }
 
+        public T DeleteLast()
+        {
+            if (head == null)
+            {
+                Console.WriteLine("The Linked List is empty!!!");
+                return default(T);
+            }
+            T popData = tail.data;
+            if (head == tail)
+            {
+                head = null;
+                return popData;
+            }
+            Node<T> temp = head;
+            while (temp.next != tail)
+                temp = temp.next;
+            temp.next = null;
+            tail = temp;
+            return popData;
+        }
+
         public void Display()
         {
             Node<T> temp = head;
