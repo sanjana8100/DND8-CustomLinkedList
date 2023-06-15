@@ -42,6 +42,31 @@ namespace DND8_CustomLinkedList
             }
         }
 
+        public bool AddAfter(T searchData, T addData)
+        {
+            Node<T> newNode = new Node<T>(addData);
+            Node<T> searchedNode = null;
+
+            Node<T> temp = head;
+            while (temp != null)
+            {
+                if (temp.data.Equals(searchData))
+                {
+                    searchedNode = temp;
+                }
+                temp = temp.next;
+            }
+            
+            if (searchedNode != null)
+            {
+                newNode.next = searchedNode.next;
+                searchedNode.next = newNode;
+                return true;
+            }
+            Console.WriteLine($"{searchData} does not exist in the Linked List!!!");
+            return false;
+        }
+
         public void Display()
         {
             Node<T> temp = head;

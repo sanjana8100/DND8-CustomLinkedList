@@ -16,6 +16,11 @@
             linkedList1.AddLast(27);
 
             linkedList1.Display();
+
+            linkedList1.AddAfter(30, 49);
+            linkedList1.AddAfter(20, 87);
+
+            linkedList1.Display();
         }
     }
 }
