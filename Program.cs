@@ -21,6 +21,10 @@
             linkedList1.AddAfter(20, 87);
 
             linkedList1.Display();
+
+            linkedList1.DeleteFirst();
+
+            linkedList1.Display();
         }
     }
 }

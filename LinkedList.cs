@@ -67,6 +67,18 @@ namespace DND8_CustomLinkedList
             return false;
         }
 
+        public T DeleteFirst()
+        {
+            if (head == null)
+            {
+                Console.WriteLine("The Linked List is empty!!!");
+                return default(T);
+            }
+            T popData = head.data;
+            head = head.next;
+            return popData;
+        }
+
         public void Display()
         {
             Node<T> temp = head;
